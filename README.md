@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish
-- 👀 I’m interested in Web Development, Andriod and Data Science. 
+- 👀 I’m interested in Web Development and Andriod. 
 - 🌱 I’m currently learning Deep Learning, Information Retrieval and Data Science.
 
 <!---
